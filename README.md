@@ -4,7 +4,7 @@
 
 <p align="center">Light a lantern for each of your five daily prayers. A gentle streak that forgives.</p>
 
-<p align="center"><a href="https://github.com/saifullahomer/Qandeel-Build/releases/latest/download/qandeel.apk"><b>⬇ Download qandeel.apk</b></a></p>
+<p align="center"><a href="https://github.com/saifullahomer/Qandeel-Build/raw/main/qandeel.apk"><b>⬇ Download qandeel.apk</b></a></p>
 
 ## How to install
 
